@@ -1,0 +1,1 @@
+PathFinder is a lightweight JS object that allows creation and addition of path-like namespacing.
